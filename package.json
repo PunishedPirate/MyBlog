@@ -1,0 +1,24 @@
+{
+  "name": "myblog",
+  "version": "1.0.0",
+  "description": "zhangyuwen's blog.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PunishedPirate/MyBlog.git"
+  },
+  "author": "zhangyuwen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PunishedPirate/MyBlog/issues"
+  },
+  "homepage": "https://github.com/PunishedPirate/MyBlog#readme",
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "jquery": "^3.3.1",
+    "vue": "^2.5.13"
+  }
+}
